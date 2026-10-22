@@ -1,0 +1,1 @@
+export default function SubmitButton() { return <button type="button" className="w-full h-12 rounded-full bg-blue-600 text-white font-semibold shadow-lg shadow-blue-600/25 hover:bg-blue-700 active:scale-[0.99] transition">Send</button> }

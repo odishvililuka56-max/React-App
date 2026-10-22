@@ -1,0 +1,1 @@
+export default function ContactInput({ type, placeholder }) { return <input type={type} placeholder={placeholder} className="w-full h-12 px-5 rounded-xl border border-gray-200 outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition" /> }

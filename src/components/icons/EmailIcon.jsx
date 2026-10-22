@@ -1,0 +1,1 @@
+export default function EmailIcon() { return <svg className="w-6 h-6 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M4 4h16v16H4z" opacity=".15" fill="currentColor" /><path d="M4 8l8 6 8-6" /><path d="M4 6h16" /></svg> }

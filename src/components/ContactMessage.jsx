@@ -1,0 +1,1 @@
+export default function ContactMessage() { return <textarea rows="7" placeholder="Message" className="w-full px-5 py-4 rounded-xl border border-gray-200 outline-none resize-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition" /> }

@@ -1,0 +1,1 @@
+export default function ContactHero() { return <section className="mt-[150px] mb-[150px]" id="contact"><p className="text-[#23c190] text-center font-bold text-2xl">Contacts</p><h1 className="text-3xl font-bold text-center">How you can reach us</h1></section> }
